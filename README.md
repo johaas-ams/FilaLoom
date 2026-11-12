@@ -23,8 +23,3 @@ Contains the Grasshopper scripts used to produce FilaLoom compatible GCode. Ther
 1. **Read the paper:** The preprint is included in this repository and covers the working principle, design space, guidelines, and limitations. We encourage you to read it in order to understand the full context before experimenting.
 2. **Build FilaLoom:** Print the components and follow the assembly guide to build the mechanism and mount it onto your printer.
 3. **Generate GCode in Grasshopper:** Open the Grasshopper scripts and start experimenting with generating your own GCode.
-
-[Joram de Haas](https://orcid.org/0009-0009-9285-3978), Delft University of Technology, Netherlands, [Mehmet Ozdemir](https://orcid.org/0000-0002-5177-807X), Delft University of Technology, Netherlands, [Holly McQuillan](https://orcid.org/0000-0002-3210-1696), Delft University of Technology, Netherlands, [Zjenja Doubrovski](https://orcid.org/0000-0003-2785-3452), Delft University of Technology, Netherlands
-
-DOI: https://doi.org/10.1145/3828611.3845661  
-SCF '26: [Proceedings of the 11th ACM Symposium on Computational Fabrication](https://doi.org/10.1145/3828611), Tokyo, Japan, December 2026

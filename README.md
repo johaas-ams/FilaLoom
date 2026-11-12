@@ -3,7 +3,13 @@
 FilaLoom is a DIY mechanism that enables FDM (Fused Deposition Modeling) 3D printers to automatically embed yarn directly into their prints. By adding a tool-changing add-on to an FDM printer, FilaLoom enables the printer to switch between depositing filament and embedding yarn. This produces objects that combine the form freedom of FDM with the softness and textile properties of yarn.
 
 This repository contains the resources needed to build FilaLoom and begin experimenting with yarn-embedded 3D printing.
+
 ![](Media/filaloom_header.jpg)
+
+[Joram de Haas](https://orcid.org/0009-0009-9285-3978), Delft University of Technology, Netherlands, [Mehmet Ozdemir](https://orcid.org/0000-0002-5177-807X), Delft University of Technology, Netherlands, [Holly McQuillan](https://orcid.org/0000-0002-3210-1696), Delft University of Technology, Netherlands, [Zjenja Doubrovski](https://orcid.org/0000-0003-2785-3452), Delft University of Technology, Netherlands
+
+DOI: https://doi.org/10.1145/3828611.3845661  
+SCF '26: [Proceedings of the 11th ACM Symposium on Computational Fabrication](https://doi.org/10.1145/3828611), Tokyo, Japan, December 2026
 
 ## Repository contents
 
